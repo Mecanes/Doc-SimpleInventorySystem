@@ -1,6 +1,6 @@
 # Doc-SimpleInventorySystem
 
-![Plugin](https://github.com/Mecanes/Images/blob/main/plugins.png?raw=true)
+![Plugin](https://github.com/Mecanes/Images/blob/main/SIS_Logo.png)
 
 ## Plan
 <!--ts-->
