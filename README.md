@@ -83,7 +83,7 @@ There are 2 actor components:
 
 ## Features & applications
 
-#### Code Example
+#### Code Example : AC Item
 ![AC Item Example](https://github.com/Mecanes/Images/blob/main/example_AC_Item.png)
 
 ## Licence
@@ -92,7 +92,7 @@ There are 2 actor components:
 
 ## Author
 
-[Mecanes](https://x.com/MecanesFr)
+[Mecanes](https://linktr.ee/mecanes)
 
 ## History
 
