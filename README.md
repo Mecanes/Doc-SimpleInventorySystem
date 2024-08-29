@@ -34,8 +34,6 @@ Target platform : Windows, Mac
 ## Warning
 The plugin may not work properly, so feel free to join the Discord for more information. We're working hard on this plugin and will be updating it regularly to make it more effective.
 
-Test done :
-
 
 ## Installation
 
