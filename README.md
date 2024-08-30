@@ -78,7 +78,7 @@ There are 2 actor components:
 - ***Has Space For*** : Returns TRUE IF THERE IS ROOM, OTHERWISE FALSE
 
 - ***Add To Bag*** : Stores an object in the bag. Returns true if the object is stored, otherwise false if the actor has no bag
-- > check Delete actor if you want the actor to be deleted if it no longer exists.
+> check Delete actor if you want the actor to be deleted if it no longer exists.
 
 
 ## Features & applications
