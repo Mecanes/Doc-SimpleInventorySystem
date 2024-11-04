@@ -50,6 +50,8 @@ There are 2 actor components:
 
 > **AC ItemsBag is used in your Character**
 
+>  **AC Shop is used in your Actor ( Shop )** [ ***new*** ]
+
 ![Actor Component]( https://github.com/Mecanes/Images/blob/main/UE_SIS.png )
 
 ## Advantages and uses
@@ -80,6 +82,11 @@ There are 2 actor components:
 - ***Add To Bag*** : Stores an object in the bag. Returns true if the object is stored, otherwise false if the actor has no bag
 > check Delete actor if you want the actor to be deleted if it no longer exists.
 
+- [x] **AC Shop**
+- ***AddItemToShop*** : Returns true if the item has been added
+- ***RemoveItemFromShop*** : Returns true if the item has been removed
+- ***RemoveItemFromShopByIndex*** : Returns true if the item has been removed
+- ***MoveFromShopToBagByName*** : The MoveFromShopToBagByName function moves a specific item (**ShopItem**) from a shop to a named bag (**NameOfBag**) for a given actor (**Actor**).
 
 ## Features & applications
 
@@ -96,4 +103,5 @@ There are 2 actor components:
 
 ## History
 
+- [x] [04/11/2024] Add a shop
 - [x] [29/08/2024] Creation of official documentation
