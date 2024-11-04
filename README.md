@@ -86,7 +86,6 @@ There are 2 actor components:
 - ***AddItemToShop*** : Returns true if the item has been added
 - ***RemoveItemFromShop*** : Returns true if the item has been removed
 - ***RemoveItemFromShopByIndex*** : Returns true if the item has been removed
-- ***MoveFromShopToBagByName*** : The MoveFromShopToBagByName function moves a specific item (**ShopItem**) from a shop to a named bag (**NameOfBag**) for a given actor (**Actor**).
 
 ## Features & applications
 
