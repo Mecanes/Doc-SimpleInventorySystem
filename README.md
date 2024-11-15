@@ -84,7 +84,9 @@ There are 2 actor components:
 
 - [x] **AC Shop**
 - ***AddItemToShop*** : Returns true if the item has been added
+- ***MoveFromShopToBagByName*** : Returns true if the object has been added to the bag
 - ***RemoveItemFromShop*** : Returns true if the item has been removed
+- ***RemoveItemFromShopByName*** : Returns true if the item has been removed
 - ***RemoveItemFromShopByIndex*** : Returns true if the item has been removed
 
 ## Features & applications
